@@ -1,2 +1,5 @@
 # blither-blather
-Blither blather
+
+
+Learning how to use github 
+I hear that it is a valuable skill.
